@@ -1,0 +1,36 @@
+{
+  "name": "drak-aurora",
+  "displayName": "Drak aurora",
+  "description": "When you enjoy your coding environment, you're likely to be more motivated and productive.",
+  "version": "0.0.1",
+  "publisher": "DikshaJethwa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diksha566/Dark-aurora.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark aurora",
+    "dark",
+    "aurora",
+    "diksha"
+
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark aurora-color-theme.json"
+      }
+    ]
+  }
+}
