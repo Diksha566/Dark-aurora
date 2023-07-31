@@ -13,7 +13,8 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 # Overview
 
  A well-crafted dark theme, can reduce eye strain during extended coding sessions. By providing a comfortable contrast between the text and the background, it minimizes the stress on your eyes.👀
-![image_2023-07-31_013810487](https://github.com/Diksha566/Dark-aurora/assets/121545576/1783d861-e4c3-4fcf-ba06-e017d39e1f84)
+![Screenshot (655)](https://github.com/Diksha566/Dark-aurora/assets/121545576/e3e71194-92ba-422f-bf2e-d0179dba9b8f)
+
 
 
 
