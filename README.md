@@ -23,7 +23,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 * 🔗 [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * 🔗 [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-## 200+ Downloads 
+## 320+ Downloads 
 ![image](https://github.com/Diksha566/Dark-aurora/assets/121545576/a7e4cc82-bf20-49c6-99b9-c2b432fc274a)
 
 
